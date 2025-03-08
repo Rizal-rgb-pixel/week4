@@ -96,7 +96,6 @@ if __name__ == "__main__":
 
     print()
 
-    # Membuat objek Asdos
     uswatun = Asdos("Uswatun", "Hasanah", "456456")
     uswatun.enrol("Big Data")
     uswatun.mengajar("Kecerdasan Artifisial")
